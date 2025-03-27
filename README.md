@@ -24,9 +24,9 @@ O conteúdo está organizado em capítulos, de acordo com o plano pedagógico:
 
 ### Conceitos Fundamentais
 
-- [Capítulo 4: O que é Backend]()
-- [Capítulo 5: O que é Node.js e como funciona](Cap%C3%ADtulo%204%3A%20Conceitos%20Fundamentais%3A%20Backend.md)
-- [Capítulo 6: Bibliotecas e Utilizações no Node.js](Cap%C3%ADtulo%205%3A%20Conceitos%20Fundamentais%3A%20Node.js.md)
+- [Capítulo 4: O que é Backend](Cap%C3%ADtulo%204%3A%20Conceitos%20Fundamentais%3A%20Backend.md)
+- [Capítulo 5: O que é Node.js e como funciona](Cap%C3%ADtulo%205%3A%20Conceitos%20Fundamentais%3A%20Node.js.md)
+- [Capítulo 6: Bibliotecas e Utilizações no Node.js](Cap%C3%ADtulo%206%3A%20Conceitos%20Fundamentais%20Backend%20c%20Node.js.md)
 - [Capítulo 7: Métodos HTTP (GET, POST, PUT, DELETE)](Cap%C3%ADtulo%207%3A%20Conceitos%20Fundamentais%3A%20M%C3%A9todos%20HTTP.md)
 - [Capítulo 8: Criando um Servidor HTTP com Express](Cap%C3%ADtulo%208%3A%20Criando%20um%20Servidor%20HTTP%20no%20Node.js.md)
 
