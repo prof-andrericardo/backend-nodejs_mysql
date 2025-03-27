@@ -18,17 +18,17 @@ O conteúdo está organizado em capítulos, de acordo com o plano pedagógico:
 
 ### Parte Introdutória
 
-- [Capítulo 1: Introdução](https://github.com/prof-andrericardo/backend-nodejs_mysql/blob/main/Cap%C3%ADtulo%201%3A%20Introdu%C3%A7%C3%A3o.md)
+- [Capítulo 1: Introdução](Cap%C3%ADtulo%201%3A%20Introdu%C3%A7%C3%A3o.md)
 - [Capítulo 2: Preparando o Ambiente (Windows e Debian/Linux)](Cap%C3%ADtulo%202%3A%20Preparando%20o%20Ambiente.md)
-- Capítulo 3: Estrutura Inicial do Projeto
+- [Capítulo 3: Estrutura Inicial do Projeto](Cap%C3%ADtulo%203%3A%20Criando%20a%20Estrutura%20Inicial%20do%20Projeto.md)
 
 ### Conceitos Fundamentais
 
-- Capítulo 4: O que é Backend
-- Capítulo 5: O que é Node.js e como funciona
-- Capítulo 6: Bibliotecas e Utilizações no Node.js
-- Capítulo 7: Métodos HTTP (GET, POST, PUT, DELETE)
-- Capítulo 8: Criando um Servidor HTTP com Express
+- [Capítulo 4: O que é Backend]()
+- [Capítulo 5: O que é Node.js e como funciona](Cap%C3%ADtulo%204%3A%20Conceitos%20Fundamentais%3A%20Backend.md)
+- [Capítulo 6: Bibliotecas e Utilizações no Node.js](Cap%C3%ADtulo%205%3A%20Conceitos%20Fundamentais%3A%20Node.js.md)
+- [Capítulo 7: Métodos HTTP (GET, POST, PUT, DELETE)](Cap%C3%ADtulo%207%3A%20Conceitos%20Fundamentais%3A%20M%C3%A9todos%20HTTP.md)
+- [Capítulo 8: Criando um Servidor HTTP com Express](Cap%C3%ADtulo%208%3A%20Criando%20um%20Servidor%20HTTP%20no%20Node.js.md)
 
 ### Mão na Massa
 
