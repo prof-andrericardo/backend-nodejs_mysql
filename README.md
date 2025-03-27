@@ -18,7 +18,7 @@ O conteúdo está organizado em capítulos, de acordo com o plano pedagógico:
 
 ### Parte Introdutória
 
-- Capítulo 1: Introdução
+- [Capítulo 1: Introdução](https://github.com/prof-andrericardo/backend-nodejs_mysql/blob/main/Cap%C3%ADtulo%201%3A%20Introdu%C3%A7%C3%A3o.md)
 - Capítulo 2: Preparando o Ambiente (Windows e Debian/Linux)
 - Capítulo 3: Estrutura Inicial do Projeto
 
