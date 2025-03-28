@@ -14,16 +14,18 @@ A estrutura abaixo foi pensada para separar as responsabilidades do projeto, fac
 
 ```
 backend-nodejs/
-├── node_modules/           # Bibliotecas instaladas (gerado pelo npm)
-├── public/                 # Arquivos do Frontend
-├── public/index.html       # index.html
-├── public/css/style.css    # style.css
+├── src/
+├── src/app.js
+├── src/node_modules/           # Bibliotecas instaladas (gerado pelo npm)
+├── src/public/                 # Arquivos do Frontend
+├── src/public/index.html       # index.html
+├── src/public/css/style.css    # style.css
 ├── package.json            # Configurações e dependências do projeto
 ├── index.js                # Arquivo principal que inicializa o servidor
-├── routes/                 # Rotas da aplicação
-├── controllers/            # Lógica de controle para cada rota
-├── models/                 # Acesso ao banco de dados
-├── config/                 # Configurações gerais (ex: conexão com MySQL)
+├── src/routes/                 # Rotas da aplicação
+├── src/controllers/            # Lógica de controle para cada rota
+├── src/models/                 # Acesso ao banco de dados
+├── src/config/                 # Configurações gerais (ex: conexão com MySQL)
 ├── .env                    # Variáveis de ambiente (não versionado)
 └── README.md               # Documentação inicial do projeto
 ```
