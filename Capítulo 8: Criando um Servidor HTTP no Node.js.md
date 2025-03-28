@@ -37,13 +37,13 @@ Essa organização é amplamente adotada em projetos Node.js reais e facilitará
 mkdir backend-nodejs && cd backend-nodejs
 ```
 
-1. Inicie o projeto com `npm init -y` para gerar o arquivo `package.json`:
+2. Inicie o projeto com `npm init -y` para gerar o arquivo `package.json`:
 
 ```bash
 npm init -y
 ```
 
-1. Crie os diretórios que compõem a estrutura modular do projeto:
+3. Crie os diretórios que compõem a estrutura modular do projeto:
 
 ```bash
 mkdir src src/routes src/controllers src/models src/config
@@ -51,7 +51,7 @@ mkdir src src/routes src/controllers src/models src/config
 
 > 🧠 A pasta `src` conterá toda a lógica da aplicação. Manter esse padrão ajuda a organizar melhor o projeto à medida que ele cresce.
 
-1. Crie o arquivo principal `index.js` na raiz do projeto. Ele será responsável por carregar o app e iniciar o servidor.
+4. Crie o arquivo principal `index.js` na raiz do projeto. Ele será responsável por carregar o app e iniciar o servidor.
 
 ------
 
@@ -62,7 +62,7 @@ mkdir src src/routes src/controllers src/models src/config
 O Express será o responsável por lidar com as requisições HTTP e o roteamento da aplicação.
 
 ```bash
-npm install express
+npm install express --save
 ```
 
 #### Instalando o Nodemon (ambiente de desenvolvimento)
