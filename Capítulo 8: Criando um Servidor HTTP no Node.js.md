@@ -15,6 +15,9 @@ A estrutura abaixo foi pensada para separar as responsabilidades do projeto, fac
 ```
 backend-nodejs/
 ├── node_modules/           # Bibliotecas instaladas (gerado pelo npm)
+├── public/                 # Arquivos do Frontend
+├── public/index.html       # index.html
+├── public/css/style.css    # style.css
 ├── package.json            # Configurações e dependências do projeto
 ├── index.js                # Arquivo principal que inicializa o servidor
 ├── routes/                 # Rotas da aplicação
