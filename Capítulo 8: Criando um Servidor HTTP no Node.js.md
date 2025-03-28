@@ -20,14 +20,14 @@ backend-nodejs/
 ├── src/public/                 # Arquivos do Frontend
 ├── src/public/index.html       # index.html
 ├── src/public/css/style.css    # style.css
-├── package.json            # Configurações e dependências do projeto
-├── index.js                # Arquivo principal que inicializa o servidor
 ├── src/routes/                 # Rotas da aplicação
 ├── src/controllers/            # Lógica de controle para cada rota
 ├── src/models/                 # Acesso ao banco de dados
 ├── src/config/                 # Configurações gerais (ex: conexão com MySQL)
-├── .env                    # Variáveis de ambiente (não versionado)
-└── README.md               # Documentação inicial do projeto
+├── package.json                # Configurações e dependências do projeto
+├── index.js                    # Arquivo principal que inicializa o servidor
+├── .env                        # Variáveis de ambiente (não versionado)
+└── README.md                   # Documentação inicial do projeto
 ```
 
 Essa organização é amplamente adotada em projetos Node.js reais e facilitará muito o entendimento dos próximos capítulos, como a integração com banco de dados e implementação de regras de negócio.
